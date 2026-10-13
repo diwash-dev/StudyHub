@@ -89,15 +89,6 @@ At runtime, the client calls the server using the API base URL configured by `VI
 
 ## Screenshots
 
-Add project screenshots to a `docs/screenshots/` directory and replace the placeholders below:
-
-| View | Screenshot |
-| --- | --- |
-| Home page | ![StudyHub home page](docs/screenshots/home.png) |
-| Resource listing | ![StudyHub resource listing](docs/screenshots/resource-listing.png) |
-| PDF viewer | ![StudyHub PDF viewer](docs/screenshots/pdf-viewer.png) |
-| Admin dashboard | ![StudyHub admin dashboard](docs/screenshots/admin-dashboard.png) |
-
 ## Live demo and repository
 
 - Live demo: `https://learn-desk-ebon.vercel.app/`
